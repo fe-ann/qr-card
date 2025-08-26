@@ -8,11 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Screnshot](/Screenshot%202025-08-26%20at%2017-48-16%20.png "Qr code")
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 I was stuck at making text look the same before adding fonts and was wondering why the text was going out of the div even though my measrements were right. Then i added font and yea it was fixed lol.
